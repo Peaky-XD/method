@@ -1,5 +1,4 @@
-# Facebook Login Method Sharing
-
+<h2 align="center"><b>METHOD</b></h2>
 This repository is dedicated to sharing Facebook login methods obtained through scrapped requests.
 
 ## Overview
