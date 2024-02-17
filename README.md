@@ -24,3 +24,6 @@ To utilize the Facebook login method shared in this repository, follow these ste
 #### Contributor
 
 * Main Contributor : [Ahmed Ali](https://github.com/Ahmed-XD)
+
+> [!NOTE]  
+> ****All code included in this repository is subject to copyright protection. Users are reminded to respect the intellectual property rights of the original authors and to obtain proper authorization before using or redistributing any code for commercial or non-commercial purposes.****
